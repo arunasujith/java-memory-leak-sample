@@ -1,4 +1,4 @@
-package com.pearson;
+package io.arunasujith;
 
 public class MemoryConsumingObject {
 
